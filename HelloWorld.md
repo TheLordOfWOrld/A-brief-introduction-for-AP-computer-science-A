@@ -1,5 +1,5 @@
-That is the first Java program you will write
-Hint: there have something that will not appaer in AP exam; I will mark them using **
+# That is the first Java program you will write
+## Hint: there have something that will not appaer in AP exam; I will mark them using **
 
 **Firsety, I wnat to tell you something about how a Java program run.
   When you click the run buttom, your source code will be compiled by java compiler( JAVC )
