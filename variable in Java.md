@@ -21,9 +21,9 @@ Seems like it's difficult to understand these thing right？ Even this code just
 Don't worry most of data type will not apper in AP exam
 
 ### Firstly I will tell you the basic characterristics of some data type
-```int``` means integer, int type such as 114, 514, 1919, 810 etc. The upper bound of ```int``` is 2147483647, lower bound is -2147483648
-**```float```which menas floating-point type, in other words it can store fractional part of a number such as 3.1415f, 2.71f, 0,13567f etc range :  -3.403E38~3.403E38
-```double```which menas double floa; it have bigger voulme and more precise fractional part of a number such as 0.0, 2,3, 3,1415, 2.71828 etc range : -1.798E308~1.798E308
+```int``` means integer, int type such as 114, 514, 1919, 810 etc. The upper bound of int is 2147483647, lower bound is -2147483648
+```float```which menas floating-point type, in other words it can store fractional part of a number such as 3.1415f, 2.71f, 0,13567f etc range   -3.403E38 - 3.403E38
+```double```which menas double floa; it have bigger voulme and more precise fractional part of a number such as 0.0, 2,3, 3,1415, 2.71828 etc range  -1.798E308 - 1.798E308
 ```char``` represent characters in the normal sense (1 character =2 bytes). All characters in Java are encoded in Unicode, so a character can store a letter like "A" "c"
 ```boolean```only can store true and false
 ```string```Is a special data type called reference type. generally, it just strore a address of data(like a pointer in c/c++) ; string data looks like "hello" "Are you happay today?"
